@@ -3,3 +3,6 @@
 ################################################################################
 
 /Lighting Control/bin/Debug/app.publish
+/Lighting Control/obj/Debug
+/Lighting Control/bin/Debug
+/packages
